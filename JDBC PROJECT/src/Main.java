@@ -1,9 +1,9 @@
 import java.sql.*;
 import java.util.*;
 public class Main {
-    private static final String url = "jdbc:mysql://localhost:3306/pro1";
-    private static final String username = "root";
-    private static final String password = "Swaraj@39";
+    private static final String url = "*********************";
+    private static final String username = "***********";
+    private static final String password = "***********";
 
     public static void main(String[] args) {
         String nam = "Raj";
